@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Lizi 👋
 
-<!--
-**L1zazo/L1zazo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Beginner Web Developer  
+💻 Focused on Backend with Python & Django  
+📊 Currently learning Data Analytics to expand my skills in data-driven development  
+🚀 Passionate about improving my coding and building practical projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+
+### 🍲 Recipe Manager API
+A Django backend project where you can explore recipes, upload your own, share with others, and manage them (view, add, delete).  
+GitHub: https://github.com/L1zazo/recipe_manager
+
+---
+
+## 🛠 Skills & Tools
+- Python
+- Django
+- Git
+- SQL (currently learning)
+
+---
+
+## 🤖 AI Tools I Use
+I’m starting to explore AI tools to help with coding and productivity. For example:  
+- ChatGPT – to get coding suggestions, debug, or help with documentation  
+- GitHub Copilot – for code suggestions  
+- Notion AI – for planning and organizing projects  
+
+---
+
+## 🌐 Connect with me
+- LinkedIn: www.linkedin.com/in/lizi-mskhvilidze-0770042ab
+- Email: lizimskhvilidze11.com
