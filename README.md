@@ -32,4 +32,5 @@ I’m starting to explore AI tools to help with coding and productivity. For exa
 ---
 ## 🌐 Connect with me
 - LinkedIn: www.linkedin.com/in/lizi-mskhvilidze-0770042ab
+- portfolio: https://www.notion.so/Portfolio-2f7bb8e1fc278043a2a2ca80addc2935?source=copy_link
 - Email: lizimskhvilidze11.com
