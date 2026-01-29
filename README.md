@@ -4,7 +4,7 @@ Hi, I'm Lizi🌸
 💻 Focused on Backend with Python & Django  
 📊 I'm currently learning Data Analytics to expand my skills in data-driven development  
 🚀 Passionate about improving my coding and building practical projects  
---
+
 
 ## Projects:
 - 🍲 Recipe Manager API
