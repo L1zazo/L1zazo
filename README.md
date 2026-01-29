@@ -2,7 +2,7 @@ Hi, I'm Lizi🌸
 
 🎓 Beginner Web Developer  
 💻 Focused on Backend with Python & Django  
-📊 Currently learning Data Analytics to expand my skills in data-driven development  
+📊 I'm currently learning Data Analytics to expand my skills in data-driven development  
 🚀 Passionate about improving my coding and building practical projects  
 
 ---
