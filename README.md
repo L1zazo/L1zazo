@@ -7,10 +7,10 @@ Hi, I'm Lizi🌸
 
 ---
 
-📌 Projects
-🍲 Recipe Manager API
+## Projects:
+- 🍲 Recipe Manager API
 A Django backend project where you can explore recipes, upload your own, share with others, and manage them (view, add, delete).  
-🤖AI Recipe Chatbot
+- 🤖AI Recipe Chatbot
 AI Recipe Chatbot is a web application that helps users get various recipes with the help of artificial intelligence.
 
 ---
